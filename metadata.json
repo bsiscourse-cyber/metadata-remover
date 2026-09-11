@@ -1,0 +1,6 @@
+{
+  "name": "Anonymouse Use",
+  "description": "A private, 100% client-side tool to strip EXIF, GPS location, AI prompt parameters, and digital watermark tracks from images in batch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
